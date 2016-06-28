@@ -1,5 +1,5 @@
 {
-  "name": "template_project",
+  "name": "TemplateProject",
   "version": "1.0.0",
   "description": "This is the project created from the template: cordova_template",
   "scripts": {
@@ -8,6 +8,5 @@
   "keywords": [
     "ecosystem:cordova"
   ],
-  "author": "",
   "license": "ISC"
 }
