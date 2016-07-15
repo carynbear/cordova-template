@@ -1,5 +1,5 @@
 {
-  "name": "cordova_template",
+  "name": "cordova-template",
   "version": "1.0.0",
   "description": "A reference for creating cordova app templates.",
   "main": "index.js",
