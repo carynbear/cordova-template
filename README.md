@@ -18,7 +18,7 @@ All files outside of `template_src` are used to define parameters about the temp
 ```javascript
 var path = require('path');
 
-module.export = {
+module.exports = {
     dirname : path.join(__dirname, 'template_src')
 };
 ```

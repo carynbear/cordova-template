@@ -1,5 +1,5 @@
 var path = require('path');
 
-module.export = {
+module.exports = {
     dirname : path.join(__dirname, 'template_src')
 };
