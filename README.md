@@ -19,7 +19,7 @@ All files outside of `template_src` are used to define parameters about the temp
 var path = require('path');
 
 module.export = {
-    dirname = path.join(__dirname, 'template_src')
+    dirname : path.join(__dirname, 'template_src')
 };
 ```
 
